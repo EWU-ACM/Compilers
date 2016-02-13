@@ -1,4 +1,2 @@
-OCaml Stuff
-====================
-
-Here is where we put our ocaml stuff!
+# Compilers
+A group for EWU students with a specific interest in building and/or understanding the internals of compilers
